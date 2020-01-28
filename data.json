@@ -1,0 +1,110 @@
+[
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Drama",
+        "nominee": "Avatar",
+        "film": "",
+        "win": true
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Drama",
+        "nominee": "Hurt Locker, The",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Drama",
+        "nominee": "Inglourious Basterds",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Drama",
+        "nominee": "Precious: Based On The Novel Push By Sapphire",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Drama",
+        "nominee": "Up In The Air",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Musical or Comedy",
+        "nominee": "Hangover, The",
+        "film": "",
+        "win": true
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Musical or Comedy",
+        "nominee": "(500) Days of Summer",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Musical or Comedy",
+        "nominee": "It's Complicated",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Musical or Comedy",
+        "nominee": "Julie & Julia",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Motion Picture - Musical or Comedy",
+        "nominee": "Nine",
+        "film": "",
+        "win": false
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Performance by an Actress in a Motion Picture - Drama",
+        "nominee": "Sandra Bullock",
+        "film": "Blind Side, The",
+        "win": true
+    },
+    {
+        "year_film": 2009,
+        "year_award": 2010,
+        "ceremony": 67,
+        "category": "Best Performance by an Actress in a Motion Picture - Drama",
+        "nominee": "Emily Blunt",
+        "film": "Young Victoria, The",
+        "win": false
+    }
+]
